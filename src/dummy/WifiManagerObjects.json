@@ -1,0 +1,66 @@
+[
+  {
+    "SSID": "Bechor",
+    "BSSID": "68:ff:7b:1c:dc:be",
+    "capabilities": "[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][ESS][WPS]",
+    "frequency": 2452,
+    "level": -40,
+    "timestamp": 2399198245
+  },
+  {
+    "SSID": "Bechor",
+    "BSSID": "68:ff:7b:1c:dc:bf",
+    "capabilities": "[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][ESS][WPS]",
+    "frequency": 5200,
+    "level": -53,
+    "timestamp": 2399198169
+  },
+  {
+    "SSID": "ada",
+    "BSSID": "00:b8:c2:34:d6:6a",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]",
+    "frequency": 2452,
+    "level": -62,
+    "timestamp": 2399198265
+  },
+  {
+    "SSID": "tweg",
+    "BSSID": "e4:6f:13:70:6d:d0",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]",
+    "frequency": 2422,
+    "level": -82,
+    "timestamp": 2399198220
+  },
+  {
+    "SSID": "Sahar",
+    "BSSID": "20:b0:01:33:96:1d",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]",
+    "frequency": 2437,
+    "level": -84,
+    "timestamp": 2399198232
+  },
+  {
+    "SSID": "tultul056",
+    "BSSID": "00:78:9e:fb:17:95",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]",
+    "frequency": 2412,
+    "level": -86,
+    "timestamp": 2399198191
+  },
+  {
+    "SSID": "Bezeq-MV",
+    "BSSID": "78:32:1b:d9:95:87",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]",
+    "frequency": 2462,
+    "level": -89,
+    "timestamp": 2399198275
+  },
+  {
+    "SSID": "Partner_C90BF1",
+    "BSSID": "10:13:31:c9:0b:f1",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]",
+    "frequency": 2412,
+    "level": -91,
+    "timestamp": 2399198207
+  }
+]
